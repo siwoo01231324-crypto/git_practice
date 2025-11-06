@@ -1,0 +1,59 @@
+[33mcommit ea76afe0cce432ba4a994567f8855993b27441f5[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: 성시우 <siwoo01231324@gmail.com>
+Date:   Thu Nov 6 10:01:54 2025 +0900
+
+    first commit
+
+[33mcommit b40732663904ebda85559405dde102311ed081c0[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: lim-dongsun <166361608+lim-dongsun@users.noreply.github.com>
+Date:   Wed Nov 5 15:32:42 2025 +0900
+
+    feat: tip 추가
+
+[33mcommit 41ab7e783e66be7d2159c2b4ae23a8dd39aee137[m
+Author: lim-dongsun <166361608+lim-dongsun@users.noreply.github.com>
+Date:   Wed Nov 5 15:18:14 2025 +0900
+
+    feat: revert 추가
+
+[33mcommit e9eff85cee6a8e6eb4d3dc672405453b50caa327[m
+Author: lim-dongsun <166361608+lim-dongsun@users.noreply.github.com>
+Date:   Wed Nov 5 15:10:12 2025 +0900
+
+    feat: squash_rebase
+
+[33mcommit f0c9453645fd9b98ce721586974b1c8be8453c96[m
+Author: lim-dongsun <166361608+lim-dongsun@users.noreply.github.com>
+Date:   Wed Nov 5 14:37:56 2025 +0900
+
+    conflict test
+
+[33mcommit 0f0ae5d7328e0f784443dcf41b11c708d412ddf0[m
+Author: lim-dongsun <166361608+lim-dongsun@users.noreply.github.com>
+Date:   Wed Nov 5 14:31:07 2025 +0900
+
+    feat: 99 추가
+
+[33mcommit 63bdf007148922fabdf9c8a324dd447d8162bb54[m
+Author: lim-dongsun <166361608+lim-dongsun@users.noreply.github.com>
+Date:   Wed Nov 5 14:23:04 2025 +0900
+
+    feat: 03 추가
+
+[33mcommit 48d81cf14a1ba69dd4d93b88e11dba2d082eb3df[m
+Author: lim-dongsun <166361608+lim-dongsun@users.noreply.github.com>
+Date:   Wed Nov 5 13:39:43 2025 +0900
+
+    02 추가
+
+[33mcommit d3bbb962162093899684911b651ae94eaacacef5[m
+Author: 임동선(Dongsun Lim)/광고개발팀/SKP <dongsun.lim@sk.com>
+Date:   Wed Nov 5 12:54:36 2025 +0900
+
+    first commit
+
+[33mcommit 18d574c7abd5c4eae9519b6ae512544cffd5545c[m
+Author: lim-dongsun <166361608+lim-dongsun@users.noreply.github.com>
+Date:   Wed Nov 5 12:48:57 2025 +0900
+
+    Add initial README with setup instructions
