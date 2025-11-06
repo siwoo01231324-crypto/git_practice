@@ -26,7 +26,7 @@
 ## GUI
 
 * ex) github desktop
-  ![002](/Users/1004790/workspace/git_practice/image/002.png)
+  ![002](C:\Users\Dell3571\git_2\image\image/002.png)
 
 ## CLI
 
