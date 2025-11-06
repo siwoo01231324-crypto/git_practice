@@ -2,7 +2,7 @@
 
 ## Fork 
 
-* https://github.com/lim-dongsun/git_practice
+* https://github.com/lim-dongsun/git_2
 
 * [repo init 은 readme 파일 참고](./01_readme.md)
 
@@ -27,16 +27,16 @@ git log --graph --simplify-by-decoration --pretty=format:'%d' --all
 
 OR
 
-![003](/Users/1004790/workspace/git_practice/image/003.png)
+![003](/Users/1004790/workspace/git_2/image/003.png)
 
 ### Branch 란?
 
-![005](/Users/1004790/workspace/git_practice/image/005.png)
+![005](/Users/1004790/workspace/git_2/image/005.png)
 
 * Branch : 가지, 분기
 
 * 이해하기 쉽게 생각하면 평행세계
-  ![006](/Users/1004790/workspace/git_practice/image/006.jpg)
+  ![006](/Users/1004790/workspace/git_2/image/006.jpg)
 
 
 
@@ -80,7 +80,7 @@ git checkout main
 git merge feature/login
 ```
 
-![007](/Users/1004790/workspace/git_practice/image/007.png)
+![007](/Users/1004790/workspace/git_2/image/007.png)
 
 ### 🍒 git cherry-pick
 
@@ -95,4 +95,4 @@ git checkout main
 git cherry-pick abc1234
 ```
 
-![008](/Users/1004790/workspace/git_practice/image/008.png)
+![008](/Users/1004790/workspace/git_2/image/008.png)
